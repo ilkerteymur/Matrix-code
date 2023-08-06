@@ -24,7 +24,7 @@ Canvas has several methods for drawing paths, boxes, circles, text, and adding i
 
 ## `URL`
 
-https://superlative-puppy-189158.netlify.app/
+https://jovial-tartufo-e52dba.netlify.app/
 
 ## `Screen`
 
