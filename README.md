@@ -2,7 +2,7 @@
 
 ## `URL`
 
-https://tourmaline-brioche-8cdd3a.netlify.app/
+https://follow-the-white-rabbitt.netlify.app
 
 ## What i practice
 
